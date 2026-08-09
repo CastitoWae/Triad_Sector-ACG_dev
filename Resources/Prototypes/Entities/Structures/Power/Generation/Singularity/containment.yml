@@ -72,11 +72,6 @@
     containers:
     - machine_parts
     - machine_board
-  - type: ApcPowerReceiver
-    powerLoad: 1000
-  - type: ExtensionCableReceiver
-  - type: LightningTarget
-    priority: 1
     # Triad End
   - type: Icon
     sprite: Structures/Power/Generation/Singularity/containment.rsi
