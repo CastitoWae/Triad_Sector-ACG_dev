@@ -56,7 +56,7 @@ public sealed partial class IdCardConsoleComponent : Component
         //"Chapel",
         //"Chemistry",
         //"ChiefEngineer",
-        //"ChiefMedicalOfficer",
+        "ChiefMedicalOfficer", // Triad - DoC access
         "Command",
         //"Cryogenics",
         "Engineering", // Triad: restored - engineering is a player-delegatable role on Triad (plant + ship engineers)
@@ -80,6 +80,7 @@ public sealed partial class IdCardConsoleComponent : Component
         //"Salvage",
         "Security",
         "TdfPatrolTeamLeader", // Triad
+        "TdfPermitControl", // Triad
         "Service",
         "StationTrafficController", // Frontier
         //"USSP", // Mono
